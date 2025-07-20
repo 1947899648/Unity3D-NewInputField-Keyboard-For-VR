@@ -22,6 +22,3 @@ Pico4 has been installed and verified on the actual machine (without using Previ
 https://blog.csdn.net/qq_40401591/article/details/120532647  
 Special Note: The function of the VR virtual keyboard in this package is not very perfect. At present, only numbers, uppercase and lowercase letters and other key positions are input, and the "fur" of the appearance of the keyboard is picked up from a certain website by me. The link is as follows:
 https://blog.csdn.net/qq_40401591/article/details/120532647  
-
-源代码公开，未编译为DLL，G右及白嫖怪可以自由查看自由魔改（如果愿意的话，希望帮帮俺完善嘛，😊）  
-The source code is open, not compiled into a DLL, G friends and white piao guai can freely view and do free magic modification (if you are willing to, I hope you....... help me improve it, 😊)  
